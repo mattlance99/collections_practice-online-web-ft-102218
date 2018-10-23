@@ -28,11 +28,11 @@ def reverse_array(array)
   end
 end
 
-#def kesha_maker(array)
- # array.each do |char|
- #   puts "Taking out #{apple}"
- # end
-#end
+def kesha_maker(array)
+ array.each do |char|
+   puts "Taking out #{apple}"
+ end
+end
 
 def find_a(array)
   new_array = []

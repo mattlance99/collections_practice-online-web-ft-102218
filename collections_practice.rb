@@ -29,9 +29,11 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
- array.each do |char|
-   puts "Taking out #{apple}"
+  kesha_array = []
+  array.each do |word|
+  kesha_array << array
  end
+ kesha_array
 end
 
 def find_a(array)

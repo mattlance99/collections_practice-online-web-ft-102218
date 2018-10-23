@@ -57,6 +57,6 @@ def add_s(array)
     else
        new_array <<  word
     end
-    new_ array
+    new_array
   end
 end

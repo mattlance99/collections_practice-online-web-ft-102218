@@ -49,7 +49,7 @@ def sum_array(array)
   array.inject{|total, num| total += num; total}
 end
 
-def add_s
+def add_s(array)
   array.each do |word|
     if word != word[1]
       word = word + "s"

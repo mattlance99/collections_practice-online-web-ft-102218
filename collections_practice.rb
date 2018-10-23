@@ -33,7 +33,6 @@ def kesha_maker(array)
   array.each do |word|
   kesha_array << array
  end
- kesha_array
 end
 
 def find_a(array)
